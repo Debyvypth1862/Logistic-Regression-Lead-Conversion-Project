@@ -1,7 +1,3 @@
-Here’s a well-structured README for your GitHub project. You can copy and paste this into your repository’s `README.md` file:
-
----
-
 # Lead Conversion Prediction for X Education
 
 This project aims to develop a **lead conversion prediction model** for **X Education**, an online education company, using **Logistic Regression**. The goal is to identify "Hot Leads" – those most likely to convert into paying customers – to optimize the sales team’s efforts and improve the company's conversion rate.
