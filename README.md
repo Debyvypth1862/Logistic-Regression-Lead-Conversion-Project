@@ -10,7 +10,6 @@ This project aims to develop a **lead conversion prediction model** for **X Educ
 - [Evaluation](#evaluation)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Project Overview
 X Education experiences a low conversion rate (typically around 30%) for leads generated through various marketing channels. The company wants to improve this conversion rate by targeting the most promising leads, known as **Hot Leads**. This project uses a **Logistic Regression model** to predict the likelihood of leads converting into customers based on various attributes such as lead source, time spent on the website, and past activity.
@@ -68,17 +67,10 @@ To run this project locally, follow these steps:
 3. Ensure you have the necessary data files (provided in the zip folder) and place them in the appropriate directories.
 
 ## Usage
-1. Run the `lead_conversion_model.ipynb` Jupyter notebook.
+1. Run the `Leading Score Case Study Group.ipynb` Jupyter notebook.
 2. The notebook contains detailed steps for:
    - Data loading
    - Preprocessing and cleaning
    - Model training and evaluation
    - Generating predictions and lead scores
 3. The model’s performance can be visualized, and the leads with the highest probability of conversion will be identified for further action by the sales team.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content, such as the repository name or specific details regarding the installation steps and requirements. This should give a clear overview of the project for anyone who visits the repository!
