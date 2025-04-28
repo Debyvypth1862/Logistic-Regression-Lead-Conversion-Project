@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Lead-Conversion-Prediction.git
+   git clone https://github.com/Debyvypth1862/Logistic-Regression-Lead-Conversion-Project.git
    ```
 
 2. Install the required dependencies:
